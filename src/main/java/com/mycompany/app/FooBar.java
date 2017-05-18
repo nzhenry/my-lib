@@ -8,6 +8,6 @@ public class FooBar
 {
     public static void foobar()
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello Wooooorld!" );
     }
 }
